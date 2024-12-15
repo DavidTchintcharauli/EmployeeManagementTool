@@ -70,13 +70,13 @@ EmployeeManagementTool/
 ## Development Server
   1. **Run the development server using the following command:**
   
-  ```bash
-  npm run dev
-  ```
+   ```bash
+   npm run dev
+   ```
   Or with Yarn
-  ```bash
-  yarn dev
-  ```
+   ```bash
+   yarn dev
+   ```
   2. **Navigate to http://localhost:5173// in your browser.**
 
 ## Demo
@@ -100,15 +100,15 @@ Make sure you have the following installed before running the project:
   1. **Fork the repository**
   2. **Create your feature branch**
   
-  ```bash
-  git checkout -b feature-branch
+   ```bash
+   git checkout -b feature-branch
   ```
   3. **Commit your changes**
      
   ```bash
   git commit -m 'Add new feature'
-  ```
-  4. **Push to the branch**
+   ```
+   4. **Push to the branch**
      
   ```bash
   git push origin feature-branch
