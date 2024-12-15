@@ -73,10 +73,10 @@ EmployeeManagementTool/
      ```bash
      npm run dev
      ```
-  Or with Yarn
-    ```bash
+     Or with Yarn
+     ```bash
      yarn dev
-    ```
+     ```
   2. **Navigate to http://localhost:5173// in your browser.**
 
 ## Demo
