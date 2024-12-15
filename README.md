@@ -70,13 +70,13 @@ EmployeeManagementTool/
 ## Development Server
   1. **Run the development server using the following command:**
   
-   ```bash
-   npm run dev
-   ```
+     ```bash
+     npm run dev
+     ```
   Or with Yarn
-   ```bash
-   yarn dev
-   ```
+    ```bash
+     yarn dev
+    ```
   2. **Navigate to http://localhost:5173// in your browser.**
 
 ## Demo
