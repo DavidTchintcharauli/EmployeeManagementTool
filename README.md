@@ -115,16 +115,3 @@ Make sure you have the following installed before running the project:
       ```
   5. **Create a new Pull Request**
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Key Additions:
-- **Project Overview**: A brief introduction to help users understand the app’s purpose.
-- **Demo Link**: Provided the link for the live demo.
-- **Contribution Guidelines**: For users who want to contribute.
-- **License**: Added a section for the MIT license (if you're using it).
-- **File Structure**: Clarified each file's role in the project.
-
-These updates should make your README even more complete and user-friendly. Let me know if you have any other changes or need further clarification!
-
