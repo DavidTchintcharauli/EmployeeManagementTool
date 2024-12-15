@@ -59,13 +59,13 @@ EmployeeManagementTool/
     ```
 
 3. **Install the project dependencies:**
-  ```bash
-  npm install
-  ```
-  Or, if you're using Yarn 
-  ```bash
-  yarn install
-  ```
+   ```bash
+   npm install
+   ```
+   Or, if you're using Yarn 
+   ```bash
+   yarn install
+   ```
 
 ## Development Server
   1. **Run the development server using the following command:**
