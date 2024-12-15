@@ -100,19 +100,19 @@ Make sure you have the following installed before running the project:
   1. **Fork the repository**
   2. **Create your feature branch**
   
-   ```bash
-   git checkout -b feature-branch
-  ```
+      ```bash
+       git checkout -b feature-branch
+      ```
   3. **Commit your changes**
      
-  ```bash
-  git commit -m 'Add new feature'
-   ```
-   4. **Push to the branch**
+      ```bash
+      git commit -m 'Add new feature'
+      ```
+  4. **Push to the branch**
      
-  ```bash
-  git push origin feature-branch
-  ```
+      ```bash
+      git push origin feature-branch
+      ```
   5. **Create a new Pull Request**
 
 ## License
